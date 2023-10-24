@@ -72,7 +72,7 @@ namespace quadrobotics_motor_driver {
      * Turns off the motor specified by eMotors
      * @param motor :which motor to turn off
      */
-    //% blockId=kitronik_motordriver_motor_off
+    //% blockId=quadrobotics_motordriver_motor_off
     //%block="turn off %motor"
     export function motorOff(motor: Motors): void {
         switch (motor) {
