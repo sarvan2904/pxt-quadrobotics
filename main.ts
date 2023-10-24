@@ -14,10 +14,10 @@ namespace quadrobotics_motor_driver {
     }
 
     export enum Motors {
-        //%blockId=kitronik_motordriver_motor_one
+        //%blockId=quadrobotics_motordriver_motor_one
         //% block="motor 1"
         Motor1,
-        //%blockId=kitronik_motordriver_motor_two
+        //%blockId=quadrobotics_motordriver_motor_two
         //% block="motor 2"
         Motor2
     }
