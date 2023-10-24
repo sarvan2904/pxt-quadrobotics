@@ -1,10 +1,8 @@
 {
-    "name": "ExtensionTest",
-    "description": "",
+    "name": "pxt-quadrobotics",
+    "description": "Quad Robotics Motor Test",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
